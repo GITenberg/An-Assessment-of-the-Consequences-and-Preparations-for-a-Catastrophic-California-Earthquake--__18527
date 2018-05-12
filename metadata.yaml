@@ -1,0 +1,28 @@
+_repo: An-Assessment-of-the-Consequences-and-Preparations-for-a-Catastrophic-California-Earthquake--__18527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Federal Emergency Management Agency
+    alias: FEMA
+    gutenberg_agent_id: '38048'
+    url: http://www.gutenberg.org/2009/agents/38048
+description: ''
+gutenberg_issued: '2006-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural disasters -- California'
+- !lcsh 'Earthquakes -- Safety measures'
+- !lcc 'QE'
+- !lcsh 'Earthquakes -- California'
+title: 'An Assessment of the Consequences and Preparations for a Catastrophic California
+  Earthquake: Findings and Actions Taken'
+url: http://www.gutenberg.org/ebooks/18527
